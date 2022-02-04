@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+.mainContent {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
+.footer {
+  display: flex;
+}
